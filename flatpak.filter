@@ -1,2 +1,4 @@
+# This is an allowlist style filter as it denies all first
+deny *
 allow us.zoom.Zoom/*/stable
 allow com.spotify.Client/*/stable
