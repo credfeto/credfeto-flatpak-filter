@@ -5,3 +5,4 @@ allow com.spotify.Client/*/stable
 allow com.todoist.Todoist.Locale/*/stable
 allow com.todoist.Todoist/*/stable
 allow com.rawtherapee.RawTherapee/*/stable
+allow com.jeffser.Alpaca.Plugins.AMD/*/stable
