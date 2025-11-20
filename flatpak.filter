@@ -8,3 +8,5 @@ allow com.rawtherapee.RawTherapee/*/stable
 allow com.jeffser.Alpaca.Plugins.AMD/*/stable
 allow com.opera.Opera/*/stable
 allow com.fastmail.Fastmail/*/stable
+allow com.jeffser.Alpaca.Plugins.Ollama/*/stable
+allow org.telegram.desktop.webview/*/stable
